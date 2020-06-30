@@ -1,0 +1,25 @@
+//-----------------------------------------------------------------------------
+// Viet Nguyen
+// ID: vwnguyen
+// README
+//-----------------------------------------------------------------------------
+
+FILES 
+
+FindComponents.c - Finds Strongly Connected Components of a Graph given an input file
+
+Graph.c - Graph implementation file, newly implements DFS and other functions for pa5
+
+Graph.h - Graph header file
+
+GraphTest.c - Test suite for the Graph ADT
+
+List.c List - List implementation file
+
+List.h List - List header file
+
+README - Contents of the project
+
+Makefile - Altered as needed, creates executable FindComponents
+
+README - table of contents for files submitted
